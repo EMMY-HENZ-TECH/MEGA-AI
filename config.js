@@ -20,7 +20,7 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'MEGA-AI';
-global.pairingNumber = process.env.BOT_NUMBER || '' ;  // put your number here
+global.pairingNumber = process.env.BOT_NUMBER || '2349125042727' ;  // put your number here
 global.SESSION_ID = process.env.SESSION_ID || '' ;  // put your session id here
 
 global.mods = []
@@ -42,7 +42,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.canal = 'https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C'
 
 
 global.APIs = {
